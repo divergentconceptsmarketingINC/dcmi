@@ -1,0 +1,27 @@
+{
+  "name": "dcmi",
+  "version": "1.0.0",
+  "description": "DCMI - GUT RIGHT Product Landing Page",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divergentconceptsmarketingINC/dcmi.git"
+  },
+  "keywords": [
+    "landing-page",
+    "gut-right",
+    "dcmi"
+  ],
+  "author": "DCMI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divergentconceptsmarketingINC/dcmi/issues"
+  },
+  "homepage": "https://github.com/divergentconceptsmarketingINC/dcmi#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
